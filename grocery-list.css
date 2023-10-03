@@ -1,0 +1,21 @@
+h1 {
+     border: solid 4px ;
+     color: white;
+     display: inline-block;
+     background-color: black;
+ }
+ h2{
+border: blue;
+background-color: rgb(207, 207, 142);
+
+display: inline-block;
+ }
+
+ h3{
+    border: solid;
+    background-color: beige;
+    display: inline-block;
+}
+table,th,td{background-color: beige; 
+}
+img{float: right;}
